@@ -1,0 +1,81 @@
+.service img {
+	float: left;
+	margin-right: 10px;
+}
+
+.service a {
+	color: green;
+}
+
+.catalogList img {
+	float: left;
+	margin-right: 10px;
+}
+
+.catalogList a {
+	color: green;
+}
+
+.catalogList a:hover {
+	text-decoration: underline;
+}
+
+.catalogUL li {
+	display: inline;
+	margin-right: 5px;
+}
+
+div.works {
+	margin-right: 10px;
+	border: 1pt solid grey;
+}
+
+div.works:hover {
+	border: 2pt solid green;
+}
+
+.works a {
+	color: green;
+}
+
+.works a:hover {
+	text-decoration: underline;
+}
+
+.comments {
+	background-color: #F8F8F8;
+	text-align: center;
+}
+
+.comment-href {
+	color: green;
+}
+
+.comment-href:hover {
+	text-decoration: underline;
+}
+
+.news-href {
+	color: black;
+}
+
+.news-href:hover {
+	color: #6DC271;
+	text-decoration: underline;
+}
+
+.articles a {
+	color: green;
+}
+
+.articles a:hover {
+	text-decoration: underline;
+}
+
+.info a {
+	color: green;
+}
+
+.info a:hover {
+	text-decoration: underline;
+}
